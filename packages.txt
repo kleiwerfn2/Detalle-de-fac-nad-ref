@@ -1,3 +1,2 @@
-libatlas-base-dev
 gfortran
 build-essential
